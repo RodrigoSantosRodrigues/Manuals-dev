@@ -20,5 +20,9 @@ yarn
 
 - start project
 ```
+yarn dev
+```
+
+```
 yarn start
 ```
